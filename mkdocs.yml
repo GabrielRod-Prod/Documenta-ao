@@ -1,0 +1,7 @@
+site_name: Documentaçao
+theme:
+  name: mkdocs
+
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
